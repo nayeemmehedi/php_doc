@@ -13,3 +13,8 @@ $name ="name "
 define(name,value,case sensative)
 
 ### arithmetic operator
+
++ addition
+- sibstraction
+* multiplaction
+/ devison
